@@ -23,3 +23,5 @@ or
 
 - `./mytree -h`
     Show hidden files (dotfiles)
+- `./myfree -i <file>`
+    Ignore all files with that name
