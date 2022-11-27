@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <sys/types.h>
 #define __USE_MISC
 #include <dirent.h>
 #include <string.h>
