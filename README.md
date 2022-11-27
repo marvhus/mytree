@@ -18,3 +18,8 @@ or
 ```sh
 ./mytree
 ```
+
+## Args
+
+- `./mytree -h`
+    Show hidden files (dotfiles)
